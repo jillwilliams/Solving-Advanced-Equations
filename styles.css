@@ -1,0 +1,35 @@
+body {
+    font-family: "Caveat", cursive;
+    font-size: 1.5rem;
+    letter-spacing: 3px;
+    margin: 15px 35px 45px 35px;
+    background-image: linear-gradient(skyblue, navy);
+    color: white;
+}
+h1 {
+    text-align: center;
+    font-size: 2rem;
+}
+#myBtn {
+    width: 20%;
+    height: 60px;
+    font-family: "Shadows Into Light", cursive;
+    font-size: 1rem;
+    border: 2px yellow solid;
+
+}
+#demo {
+    width: 20%;
+    height: 70px;
+    font-family: "Shadows Into Light", cursive;
+    font-size: 2rem;
+    text-align: center;
+    border: 2px yellow solid;
+    background-color: white;
+    color: black;
+
+}
+footer {
+    text-align: center;
+    font-size: 1rem;
+}
